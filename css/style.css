@@ -1,0 +1,37 @@
+table {
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: 100px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+td {
+  padding: 15px;
+  margin-left: 30px;
+}
+
+tr:nth-child(2n+1) {
+  background-color: aquamarine;
+}
+
+th {
+  background-color: lightblue;
+}
+
+.c1 {
+  padding-right: 30px;
+}
+
+tr {
+  border-bottom: 3px aquamarine solid;
+  border-top: 3px aquamarine solid;
+}
+
+.c2 {
+  padding-right: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
